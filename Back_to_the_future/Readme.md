@@ -14,4 +14,4 @@ KeyChecker.exe: PE32 executable (console)
 
 原本的密碼是 blog.30cm.tw/./././
 
-`FLAG{PE\_!S_EASY}`
+`FLAG{PE_!S_EASY}`
