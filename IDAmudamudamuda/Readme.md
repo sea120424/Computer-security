@@ -1,4 +1,4 @@
-# IDAmudamudamuda [50]
+# IDAmudamudamuda [100]
 
 先使用 `file` 指令看檔案的型態
 
