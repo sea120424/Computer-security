@@ -13,5 +13,10 @@ Writeup of NTU Computer Security Course
 - [ ] [  LAB ] Web - No Password
 - [ ] [HW0x03] Web - Unexploitable
 - [ ] [HW0x03] Web - Safe R/W
+- [ ] [  LAB ] Web - Sh3ll Upload3r
+- [ ] [  LAB ] Web - EasyPeasy
+- [ ] [  LAB ] Pwn - bof
+- [ ] [  LAB ] Pwn - how2orw
+- [ ] [HW0x05] Pwn - Casino
 
 
